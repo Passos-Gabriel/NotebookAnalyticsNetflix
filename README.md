@@ -43,7 +43,7 @@ Este projeto realiza uma análise de segmentação de clientes com base na metod
 
 ## 📊 Visualização dos Clusters
 
-![Pairplot dos Clusters](plots/pairplot.png)
+![Pairplot dos Clusters](plot/pairplot.png)
 
 ---
 
@@ -53,12 +53,3 @@ Este projeto realiza uma análise de segmentação de clientes com base na metod
 - **Cluster 1**: Clientes inativos, com baixa frequência e avaliações antigas.
 - **Cluster 2**: Clientes moderadamente ativos.
 - **Cluster 3**: Clientes novos ou pouco engajados.
-
----
-
-## 🚀 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
-   cd nome-do-repo
